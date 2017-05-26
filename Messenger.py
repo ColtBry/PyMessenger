@@ -27,9 +27,16 @@ class Messenger(object):
             'pageplus' : '@vtext.com'}
 
     def sendtext(self, number, carrier, msg):
-        toaddrs  = number + self.carriers[carrier]
-      
-        # The new line is required for it to work, don't ask me why
+        number = str(number)
+
+        try:
+            carrier = self.carriers[carrier]
+        except KeyError:
+            pass
+        
+        toaddrs  = number + carrier
+
+        #The new line is required for it to work, don't ask me why
         msg = ('\n' + msg )
 
         server = SMTP(self.email_server, self.port)
