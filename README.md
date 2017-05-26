@@ -3,13 +3,13 @@ Send texts using Python and and an email account.
 
 You need an email account to send a text and I wouldn't recommend using your actual email. I have used this for a long time without any problems, but I can't guarantee the account won't get banned especially if you're spamming texts.
 
-I don't have a list of urls for popular email servers, but Gmail is "smtp.gmail.com".
+Sadly I don't have a list of urls for popular email servers, but Gmail is "smtp.gmail.com".
 
-You do need to know the provider to send a text.
 
+List of popular cell carriers
 * att : @txt.att.net
 * tmobile : @tmomail.net
-* verizon : @vtext.com # Verizon text only
+* verizon : @vtext.com
 * print : @pm.sprint.com
 * virgin : @vmobl.com
 * tracfone : @mmst5.tracfone.com
