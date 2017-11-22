@@ -10,7 +10,7 @@ List of popular cell carriers
 * att : @txt.att.net
 * tmobile : @tmomail.net
 * verizon : @vtext.com
-* print : @pm.sprint.com
+* sprint : @pm.sprint.com
 * virgin : @vmobl.com
 * tracfone : @mmst5.tracfone.com
 * metropcs : @mymetropcs.com
