@@ -7,7 +7,7 @@ Sadly I don't have a list of urls for popular email servers, but Gmail is "smtp.
 
 
 List of popular cell carriers
-* att : `@txt.att.net`
+* att : `@txt.att.net` or `mms.att.net`
 * tmobile : `@tmomail.net`
 * verizon : `@vtext.com`
 * sprint : `@pm.sprint.com`
