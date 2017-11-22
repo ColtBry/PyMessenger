@@ -7,21 +7,21 @@ Sadly I don't have a list of urls for popular email servers, but Gmail is "smtp.
 
 
 List of popular cell carriers
-* att : @txt.att.net
-* tmobile : @tmomail.net
-* verizon : @vtext.com
-* print : @pm.sprint.com
-* virgin : @vmobl.com
-* tracfone : @mmst5.tracfone.com
-* metropcs : @mymetropcs.com
-* boost : @myboostmobile.com
-* cricket : @mms.cricketwireless.net
-* ptel : @ptel.com
-* republic : @text.republicwireless.com
-* googlefi : @msg.fi.google.com
-* suncom : @tms.suncom.com
-* ting : @message.ting.com
-* uscellular : @email.uscc.net
-* consumer : @cingularme.com
-* cspire : @cspire1.com
-* pageplus : @vtext.com
+* att : `@txt.att.net` or `@mms.att.net`
+* tmobile : `@tmomail.net`
+* verizon : `@vtext.com`
+* sprint : `@pm.sprint.com`
+* virgin : `@vmobl.com`
+* tracfone : `@mmst5.tracfone.com`
+* metropcs : `@mymetropcs.com`
+* boost : `@myboostmobile.com`
+* cricket : `@mms.cricketwireless.net`
+* ptel : `@ptel.com`
+* republic : `@text.republicwireless.com`
+* googlefi : `@msg.fi.google.com`
+* suncom : `@tms.suncom.com`
+* ting : `@message.ting.com`
+* uscellular : `@email.uscc.net`
+* consumer : `@cingularme.com`
+* cspire : `@cspire1.com`
+* pageplus : `@vtext.com`
